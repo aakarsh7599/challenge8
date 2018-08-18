@@ -8,8 +8,8 @@ table {
 }
 
 td {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) i.fa {
@@ -54,8 +54,10 @@ td {
 #menu-header {
     padding-top: 20px;
     text-align: center;
+    font-size: 1.5em;
 }
 
 #team-header {
     text-align: center;
+    font-size: 1.5em;
 }
