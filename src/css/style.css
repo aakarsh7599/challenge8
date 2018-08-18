@@ -11,6 +11,32 @@
     width: 22rem;
 }
 
+.my-class {
+    background-color: red;
+}
+
+.page-header-image::before {
+    position: relative;
+    content: '';
+    background-color: #000;
+    opacity: 0.5;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.page-header-image {
+    background-color: black;
+}
+
 #main-title {
     font-size: 8em;
+    font-weight: 500;
+}
+
+#sub-title {
+    font-size: 3em;
 }
