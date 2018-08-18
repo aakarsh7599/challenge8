@@ -1,5 +1,10 @@
 body {
+    width: 100%;
     background-color: white;
+}
+
+table {
+    margin: 0 auto;
 }
 
 td {
