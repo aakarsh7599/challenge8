@@ -6,15 +6,6 @@
     width: 21px;
 }
 
-.card {
-    padding-top: 10px;
-    width: 22rem;
-}
-
-.my-class {
-    background-color: red;
-}
-
 .page-header-image::before {
     position: relative;
     content: '';
@@ -30,6 +21,11 @@
 
 .page-header-image {
     background-color: black;
+}
+
+#home {
+    font-size: 15px;
+    cursor: pointer;
 }
 
 #main-title {
