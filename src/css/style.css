@@ -5,3 +5,12 @@
     text-align: center;
     width: 21px;
 }
+
+.card {
+    padding-top: 10px;
+    width: 22rem;
+}
+
+#main-title {
+    font-size: 65px;
+}
