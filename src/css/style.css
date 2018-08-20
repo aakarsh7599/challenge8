@@ -65,17 +65,6 @@ td {
     font-size: 3em;
 }
 
-/* #menu-header {
-    padding-top: 20px;
-    text-align: center;
-    font-size: 1.5em;
-}
-
-#team-header {
-    text-align: center;
-    font-size: 1.5em;
-} */
-
 #team-image {
     width: 100%;
     border-radius: 50%;
@@ -85,4 +74,11 @@ td {
 #team-content {
     text-align: center;
     margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    /* For mobile phones: */
+    #main-title {
+        font-size: 5em;
+    }
 }
