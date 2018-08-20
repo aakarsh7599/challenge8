@@ -78,4 +78,16 @@ body {
     .card-title {
         font-size: 1.75em;
     }
+    #name {
+        font-size: 1.5em;
+    }
+    #job-title {
+        font-size: 0.75em;
+    }
+    #team {
+        font-size: 1.5em;
+    }
+    #visit {
+        font-size: 1.5em;
+    }
 }
