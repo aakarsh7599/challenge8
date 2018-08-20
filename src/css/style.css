@@ -37,11 +37,6 @@ td {
     background-color: black;
 }
 
-.img-fluid {
-     max-width: 100%;
-     height: auto;
-}
-
 #home {
     font-size: 15px;
     cursor: pointer;
