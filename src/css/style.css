@@ -3,16 +3,10 @@ html, body {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden;
 }
 
 body {
     background-color: white;
-}
-
-td {
-    padding-left: 18px;
-    padding-right: 18px;
 }
 
 .navbar .navbar-nav .nav-link:not(.btn) i.fa {
