@@ -48,7 +48,7 @@ td {
 
 .card-text {
     font-size: 0.75em;;
-    text-align: left;
+    text-align: center;
 }
 
 #home {
@@ -77,8 +77,11 @@ td {
 }
 
 @media only screen and (max-width: 600px) {
-    /* For mobile phones: */
+    /* Extra small devices (phones, 600px and down) */
     #main-title {
         font-size: 5em;
+    }
+    .card-title {
+        font-size: 2em;
     }
 }
